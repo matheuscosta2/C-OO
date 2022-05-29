@@ -1,0 +1,6 @@
+C:\Alura\Nova pasta\01 - ByteBank\06 - ByteBank\bin\Debug\06 - ByteBank.exe.config
+C:\Alura\Nova pasta\01 - ByteBank\06 - ByteBank\bin\Debug\06 - ByteBank.exe
+C:\Alura\Nova pasta\01 - ByteBank\06 - ByteBank\bin\Debug\06 - ByteBank.pdb
+C:\Alura\Nova pasta\01 - ByteBank\06 - ByteBank\obj\Debug\06 - ByteBank.csproj.CoreCompileInputs.cache
+C:\Alura\Nova pasta\01 - ByteBank\06 - ByteBank\obj\Debug\06 - ByteBank.exe
+C:\Alura\Nova pasta\01 - ByteBank\06 - ByteBank\obj\Debug\06 - ByteBank.pdb
